@@ -20,12 +20,6 @@ A modern, cyber-themed implementation of the classic Snake game built with React
 └── package.json           # Dependencies and scripts
 ```
 
-### Optional Files (Not needed for deployment):
-```
-├── app.py                 # Flask server (not needed)
-├── templates/             # Flask templates (not needed)
-├── static/                # Flask static files (not needed)
-```
 
 ## Features
 
